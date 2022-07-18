@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+PLEASE VISIT THE LINK BELOW TO CHECK THIS REACT APP DEPLOYED AND WORKING
+
+
+https://metube-taehalee.netlify.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
